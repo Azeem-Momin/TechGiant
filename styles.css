@@ -1,0 +1,4 @@
+/* for enabling texting to fit within container and not exceed border */
+.border-responsive { 
+    word-wrap: break-word;
+}
